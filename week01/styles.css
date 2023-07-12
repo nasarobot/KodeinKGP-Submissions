@@ -1,0 +1,24 @@
+body {
+  background-image: linear-gradient(to bottom right, #ffe8a7, #ffad6a);
+  min-height: 100vh;
+  text-align: center;
+  font-family: monospace;
+}
+
+h1 {
+  color: #222;
+}
+
+p {
+  color: #555;
+}
+
+#demoButton {
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+  border: none;
+  outline: none;
+  background-color: #0095ff;
+  color: #eee;
+  cursor: pointer;
+}
